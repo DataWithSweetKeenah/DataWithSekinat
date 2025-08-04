@@ -1,7 +1,15 @@
-# About Me
 
-Hi, I'm Sekinat Akinde — a Data Analyst with a background in Statistics and a passion for transforming raw data into meaningful insights. I enjoy asking the right questions, exploring trends, and using tools like Python, SQL, Excel, and Power BI to drive data-informed decisions.
+Hi, I'm Sekinat Akinde, a statistics graduate and data analyst passionate about using data to uncover patterns, solve problems, and drive smarter decisions.
 
-On this page, you'll find projects that showcase my journey — from analyzing HR data and predicting employee attrition, to working with real-world emergency call datasets and business performance dashboards.
+With a strong foundation in statistics and hands-on experience in tools like Python, SQL, Excel, and Power BI, I help bring data to life through:
 
-I created DataWithSekinat to document my growth, share my work, and connect with people who believe in the power of data. Whether you're here to explore my projects, collaborate, or just get inspired, you're very welcome.
+* Data Cleaning & Wrangling
+* Exploratory Data Analysis (EDA)
+- Insightful Dashboards & Reports
+* Basic Predictive Modelling
+* Database Querying & Management
+- Presenting Findings for Business Impact
+
+My work focuses on real-world challenges, from analyzing employee attrition to emergency response trends and business operations. I'm always learning, building, and sharing as I grow.I enjoy asking the right questions, exploring trends.
+
+I created **DataWithSekinat**to showcase my journey, collaborate with like-minded data lovers, and contribute to data-driven conversations.
