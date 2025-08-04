@@ -12,4 +12,4 @@ With a strong foundation in statistics and hands-on experience in tools like Pyt
 
 My work focuses on real-world challenges, from analyzing employee attrition to emergency response trends and business operations. I'm always learning, building, and sharing as I grow.I enjoy asking the right questions, exploring trends.
 
-I created **DataWithSekinat**to showcase my journey, collaborate with like-minded data lovers, and contribute to data-driven conversations.
+I created **DataWithSekinat** to showcase my journey, collaborate with like-minded data lovers, and contribute to data-driven conversations.
